@@ -7,13 +7,13 @@ Cuando se realizan pruebas de Accesibilidad utilizando herramientas, es muy pero
 
 Ahora bien, que utilicemos estas herramientas es bueno sin embargo no debemos depender enteramente de los resultados de estas pruebas y mucho menos que todo nuestro trabajo en términos de remediation dependa de estas herramientas.
 
-## ¿Qué queremos decir con esto?
+### ¿Qué queremos decir con esto?
 Se debe dominar o tener un conocimiento elevado sobre los criterios de accesibilidad (WCAG 2.1, Section 508, EU 3149, UAAT, ATAG, ACAA, NTC-5854, etc.) para poder determinar si los resultados obtenidos por estos tools son en realidad, defectos de accesibilidad y si infringe alguna regla (Sucess Criteria).
 
-## ¿Por qué mencionamos esto?
+### ¿Por qué mencionamos esto?
 Muchos profesionales tienden a depender de ciertas herramientas para resolver los problemas de sus sitios y no hacen análisis concientes sobre los resultados obtenidos.
 Recuerden que las herramientas de automatización son poderosas pero dependen del análisis y conocimiento de las normativas de accesibilidad para determinar su validez.
-## ¿Qué recomendamos?
+## ¿Qué se recomienda?
 Acá algunos puntos:
 * Diseñe una estrategia que combine habilidades de varios tools. Investigue cuales les funcionan en términos de funcionalidades complejas de sus sitios así como de tipo de resultados que arrojan las mismas.    
 * Integre pruebas manuales y automatizadas. 70% del esfuerzo de validación depende de esta relación: USUARIO + TECNOLOGÍA DE ASISTENCIA + SITIO    
@@ -25,14 +25,14 @@ Acá algunos puntos:
 
 Esto es importante mencionarlo porque en términos de demandas, al depender enteramente de los tools, puede que no nos estemos dando cuenta que están faltando situaciones de solucionar.
 
-## Herramientas de apoyo a la auditoría de accesibilidad web
+## Herramientas actualizadas para el apoyo a la auditoría de accesibilidad web
 A continuación algunos tools que sirven para el escaneo automático de accesibilidad, definitivamente hay otros, la lista es grande, pero al menos para iniciar, recomiendo estos:
-- https://www.deque.com/axe/devtools/
-- https://www.ibm.com/able/
-- https://accessibilityinsights.io/ 
-- https://www.paciellogroup.com/products/accessibility-resource-center-arc/ 
-- https://wave.webaim.org/ 
-- https://www.ssa.gov/accessibility/andi/help/howtouse.html 
-- https://validator.w3.org/ 
-- https://www.w3.org/WAI/test-evaluate/ 
-- https://www.w3.org/WAI/test-evaluate/preliminary/
+- [https://www.deque.com/axe/devtools/](https://www.deque.com/axe/devtools/)
+- [https://www.ibm.com/able/](https://www.ibm.com/able/)
+- [https://accessibilityinsights.io/](https://accessibilityinsights.io/)
+- [https://www.paciellogroup.com/products/accessibility-resource-center-arc/](https://www.paciellogroup.com/products/accessibility-resource-center-arc/)
+- [https://wave.webaim.org/](https://wave.webaim.org/)
+- [https://www.ssa.gov/accessibility/andi/help/howtouse.html](https://www.ssa.gov/accessibility/andi/help/howtouse.html)
+- [https://validator.w3.org/](https://validator.w3.org/)
+- [https://www.w3.org/WAI/test-evaluate/](https://www.w3.org/WAI/test-evaluate/)
+- [https://www.w3.org/WAI/test-evaluate/preliminary/](https://www.w3.org/WAI/test-evaluate/preliminary/)
